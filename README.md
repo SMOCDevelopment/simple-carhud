@@ -17,7 +17,7 @@ A lightweight and standalone-friendly car HUD for FiveM, originally made back in
 ## 📁 Files
 
 - `client.lua`: Main HUD logic
-- `vin.json`: List of possible VINs to randomly assign
+- `vin.json`: List of possible VINs to randomly assign -- By default, it has 100 listed 6 digit VINs 
 - `fxmanifest.lua`: Resource manifest
 
 > ⚠️ If `vin.json` is missing, VINs will default to `UNKNOWN`.
